@@ -42,6 +42,22 @@ prova vira adjetivo, e adjetivo não vende. Se o usuário não tiver as resposta
 assim mesmo e marque os pontos frágeis com `[PROVA NECESSÁRIA: ...]` em vez de inventar
 número, depoimento ou resultado. Fabricar prova é o único erro irreversível aqui.
 
+### 1.5. Voz (obrigatório quando existe texto do cliente)
+
+Se o usuário forneceu um texto dele para melhorar, ou qualquer amostra da marca, faça
+o inventário de voz antes de escrever: pessoa gramatical, registro, pontuação, emojis,
+marcadores de lista, bordões e vocabulário do nicho. `references/voz.md` traz o
+inventário completo.
+
+A regra central: **mexa no argumento, não nos marcadores de voz**. Não introduza emoji,
+símbolo, cabeçalho, travessão, hashtag ou "P.S." que não existam na amostra. Se achar
+que um deles melhoraria o resultado, ofereça fora da peça, como sugestão, e deixe o
+cliente decidir.
+
+Isso não é preciosismo: "não está com a nossa linguagem" é a reclamação mais comum de
+quem recebe copy, e em comunidade fechada soar de fora custa mais caro que qualquer
+erro de estrutura.
+
 ### 2. Diagnóstico de consciência e saturação
 
 Leia `references/pesquisa.md` para os cinco níveis de consciência (Schwartz), os graus
@@ -92,6 +108,8 @@ Enquanto escreve, mantenha estes reflexos:
 - **Objeção nomeada é objeção enfraquecida.** Escreva a dúvida com as palavras do
   cético antes de respondê-la.
 - **Um CTA por peça**, repetido, sempre dizendo o que acontece ao clicar.
+- **Espelhe a voz do cliente**, não a sua. Quando houver amostra, ela manda na
+  pontuação, nos emojis e no vocabulário. Ver `references/voz.md`.
 
 Para headlines, leia `references/headlines.md`. Headline é onde mora a maior parte do
 resultado: escreva de 10 a 20 antes de escolher, e nunca entregue a primeira.
@@ -133,6 +151,11 @@ texto — comece pela peça.
 - CTA vago: "saiba mais", "clique aqui". Diga a ação e o que ela entrega.
 - Urgência inventada. Prazo falso queima a lista inteira e é o tipo de dano que não se
   desfaz com a próxima campanha.
+- Enfeitar o texto do cliente com emoji temático por seção, cabeçalho em negrito e
+  travessão que ele nunca usou. Vira "copy de agência" e o público percebe na hora.
+- Travessão em legenda de rede social em pt-BR: soa editorial, quase ninguém digita.
+- Errar fato do nicho (data de aniversário, nome de membro, sigla). A comunidade
+  corrige em público e o texto inteiro perde crédito. Na dúvida, `[CONFIRMAR]`.
 - Traduzir estruturas do inglês ao pé da letra. Português tem outro ritmo: cuidado com
   frases nominais soltas e com o imperativo excessivo, que soa agressivo em pt-BR.
 
@@ -140,6 +163,7 @@ texto — comece pela peça.
 
 | Arquivo | Leia quando |
 |---|---|
+| `references/voz.md` | Sempre que existir texto ou amostra do cliente |
 | `references/pesquisa.md` | Sempre — consciência, sofisticação, voz do cliente, avatar |
 | `references/frameworks.md` | Ao estruturar qualquer peça |
 | `references/headlines.md` | Ao escrever títulos, assuntos de e-mail, ganchos |

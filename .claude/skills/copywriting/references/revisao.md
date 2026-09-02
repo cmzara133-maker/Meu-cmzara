@@ -11,6 +11,17 @@ Rode nesta ordem. Os primeiros itens matam peças inteiras; os últimos polem.
 - [ ] Há **uma** ação pedida? Se há duas, corte a menos importante.
 - [ ] A promessa é **sustentada** pelo que o produto entrega de fato?
 
+## 1.5. Voz (quando existe texto ou amostra do cliente)
+
+- [ ] Reli a amostra logo antes de escrever?
+- [ ] Os bordões e expressões marcantes dele sobreviveram?
+- [ ] Não entrou emoji, símbolo, cabeçalho, travessão ou hashtag que não existisse lá?
+- [ ] Mesma pessoa gramatical e mesma temperatura do original?
+- [ ] Termos do nicho na grafia dele, e fatos do nicho corretos?
+- [ ] O público leria isso e diria "é a conta de sempre falando"?
+
+Detalhes em `voz.md`.
+
 ## 2. Abertura
 
 - [ ] A headline passa nos 4 U's, e é específica o bastante para não servir ao
