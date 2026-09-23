@@ -51,3 +51,28 @@ O template `.claude/skills/copywriting/assets/briefing.md` lista tudo que ajuda.
   em vez do texto, ela diz isso junto com a copy.
 - **Não troca a sua voz pela dela.** Se você mandar um texto seu para melhorar, ela
   mexe no argumento e preserva os seus emojis, a sua pontuação e os seus bordões.
+
+---
+
+# Skill de finanças pessoais
+
+Em `.claude/skills/financas/` fica a skill de **finanças pessoais e do casal**: sair das
+dívidas, organizar e priorizar contas, orçamento, divisão de contas em casal, reserva de
+emergência e primeiros investimentos, com foco no Brasil. É acionada sozinha quando o
+assunto é dinheiro da casa, ou com `/financas`.
+
+```
+.claude/skills/financas/
+├── SKILL.md                         fluxo: diagnóstico → classificação → plano → revisão
+├── references/
+│   ├── prioridades.md               o que pagar primeiro quando não dá para tudo
+│   ├── dividas.md                   estancar, avalanche/bola de neve, portabilidade, negociação
+│   ├── casal.md                     modelos de divisão, regras, rotina de reuniões
+│   ├── orcamento.md                 mapear gastos, 50/30/20, calendário de contas, cortes
+│   ├── emergencia.md                quando a renda não cobre o básico
+│   ├── reserva-e-investimentos.md   reserva de emergência e próximos passos
+│   ├── calculos.md                  juros, parcela, prazo de quitação, comparar propostas
+│   └── golpes.md                    armadilhas e golpes comuns
+└── assets/
+    └── diagnostico.md               template para levantar a situação
+```
